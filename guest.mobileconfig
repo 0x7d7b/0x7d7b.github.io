@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>Iexe9neC0yie</string>
+			<key>PayloadDescription</key>
+			<string>Konfiguriert WLAN-Einstellungen</string>
+			<key>PayloadDisplayName</key>
+			<string>WLAN</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.5FCEEB79-E2E1-4882-9284-A4416B35B462</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>5FCEEB79-E2E1-4882-9284-A4416B35B462</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Z3Vlc3Q=</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Dieses Konfigurationsprofil enthält den Zugang zum Gäste WLAN der Familie Sachse.</string>
+	<key>PayloadDisplayName</key>
+	<string>Gäste WLAN - Sachse</string>
+	<key>PayloadIdentifier</key>
+	<string>C39112C2-3897-4BDF-964E-7D84C8A5F89E</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4D7B6BDE-40AF-4582-B255-280F9840E794</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
