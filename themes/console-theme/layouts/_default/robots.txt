@@ -1,0 +1,9 @@
+User-agent: *
+{{ range .Pages }}
+{{- if and (eq (isset .Params "noindex") true) (ne .Params.noindex false) -}}
+Disallow: {{ .RelPermalink }}
+{{ end }}
+{{- end -}}
+User-agent: ia_archiver
+Disallow: /
+Sitemap: {{ .Site.BaseURL }}sitemap.xml

@@ -1,0 +1,13 @@
+<header>
+    {{- $rpwd := .RelPermalink | replaceRE "^(.*)(/|(\\.html))$" "$1" -}}
+    {{- $nick := .Site.Params.nick -}}
+    {{- if (not (isset .Site.Params "nick")) | or (eq .Site.Params.nick "") -}}
+    login as: www<br/>
+    {{- else -}}
+    login as: {{ .Site.Params.nick }}<br/>
+    {{- end -}}
+    {{- if .Param "hint" -}}
+    > % # <span class="hint">{{ .Param "hint" }}</span><br/>
+    {{- end -}}
+    > % cat ${<a href="/">HOME</a>}{{ $rpwd }}/index.html | html2text -utf8
+</header>

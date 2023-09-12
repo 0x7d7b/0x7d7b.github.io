@@ -1,0 +1,24 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:webmaster@sachse.info
+Encryption: https://sachse.info/.well-known/pubkey.pgp.asc
+Preferred-Languages: en, de
+Canonical: https://sachse.info/.well-known/security.txt
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEb2KJpBAWvNa2Ka32RLWgJF2v7isFAl3uXdcACgkQRLWgJF2v
+7itDYw//eCkQNe23uxQgkz+U98UZxt11S6oi2bBVVVgpi3ft4TUIPWKjcCVwqGaW
+tdUBD8Z8sAgeNz6sImRExrfKTgsMyKH4zkKkL//SViO0Uay7DKzl0sRqdmZ1lsJb
+fyWzmPV8N3Yo4jywgL+fkP5rsbZ7IdTx3KPBTxZnW0/JgPfkysUEzJ5oIImTny8l
+wJzCGQt3lAMlNC71oGgLGiaN5BRKMFg2HFcL0nsRFccJ7iKGV4O/PC6oVgoBoVE0
+bcFtcKHyp+4OiM5z0lJOjnoKFR2X2a0cxYBaGLw2SclhaUOqQCJTKI2osGcfXOxw
+uC9C+A3Umm6IVFbiAgKv2FsjyBc3OJcsUbPeA60NH4XTUU/Iijej5VykUDNYhGFv
+8iaeZigt38dgENeyZScQYpfX/A8myVipbJDj3NCsAFoebxEiIQwuuFquEdvvHS9T
+4aYKCSurmedbHepjmB47HKkWG5UTNsdofMuAoZrkafn1cLu07by5Mk4wdrD2g9Uk
+Ew+d10L0d9hz6rqEkOUMsDboQu90DFKyOIJf6sOvSFwWgck90ppfl5UmWDK5lLB/
+XDAEkMdozVl74pIveoky6y51bTGxyIFBzCQYg+rSdmHcQ4TuQt8lqB54yeSEeh4g
+rA8oOlrKOYg4AJ20szkUklB1ik8G5X+xZq4LpczMym/nhoYym+w=
+=yDFI
+-----END PGP SIGNATURE-----

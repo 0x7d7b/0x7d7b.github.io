@@ -1,0 +1,19 @@
+{{- $cssOptions := (dict "outputStyle" "compressed") -}}
+{{- $css := resources.Match "sass/**.scss" | resources.Concat "main.scss" | toCSS $cssOptions -}}
+{{- $style := $css | resources.Fingerprint "sha256" -}}
+<head>
+    <meta name="Author" content="{{ .Site.Params.author }}"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width"/>
+    {{- if .Params.noindex -}}
+    <meta name="robots" content="noindex" /> 
+    {{- else -}}
+    <meta name="robots" content="index,follow"/>
+    {{- end -}}
+    <title>{{ .Site.Params.author }}</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" type="text/css" integrity="{{ $style.Data.Integrity }}" media="all" />
+    <link rel="me" href="{{ .Site.Params.mastodon }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ .Site.Params.author }}" href="{{ .Site.BaseURL }}index.xml">
+</head>
