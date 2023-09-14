@@ -16,7 +16,7 @@ hint: "We’re forced to so here it is. In DE since I reside in Germany."
 
 ## Kontakt
 Telefon: {{<prevent_select>}}+49 156 78591936{{</prevent_select>}}
-E-Mail: {{<prevent_select>}}webmaster[@]henrik-sachse[.]de{{</prevent_select>}}
+E-Mail: {{<prevent_select>}}webmaster[@]sachse[.]info{{</prevent_select>}}
 
 ## Redaktionell verantwortlich
 {{<prevent_select>}}Henrik Sachse{{</prevent_select>}}
