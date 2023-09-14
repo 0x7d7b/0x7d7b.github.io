@@ -55,7 +55,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 {{<prevent_select>}}Deutschland{{</prevent_select>}}
 
 Telefon: {{<prevent_select>}}+49 156 78591936{{</prevent_select>}}
-E-Mail: {{<prevent_select>}}webmaster[@]henrik-sachse[.]de{{</prevent_select>}}
+E-Mail: {{<prevent_select>}}webmaster[@]sachse[.]info{{</prevent_select>}}
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 ### Speicherdauer
