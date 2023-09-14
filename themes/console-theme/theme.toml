@@ -3,9 +3,9 @@
 
 name = "Console Theme"
 license = "MIT"
-homepage = "http://henrik-sachse.de"
+homepage = "https://sachse.info"
 min_version = "0.41.0"
 
 [author]
   name = "Henrik Sachse"
-  homepage = "http://henrik-sachse.de"
+  homepage = "https://sachse.info"
