@@ -2,10 +2,14 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
+        {{ if ne ( isset .Params "plain" ) true }}
         {{- partial "header.html" . -}}
+        {{ end }}
         <section>
             {{- block "main" . }}{{- end }}
         </section>
+        {{ if ne ( isset .Params "plain" ) true }}
         {{- partial "footer.html" . -}}
+        {{ end }}
     </body>
 </html>

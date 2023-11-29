@@ -2,6 +2,7 @@
 title: "Test"
 date: 2023-03-30T21:11:52+02:00
 draft: true
+noindex: true
 ---
 # Test
 Just a [test](#).

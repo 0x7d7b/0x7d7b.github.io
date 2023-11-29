@@ -5,7 +5,6 @@ draft: false
 noindex: true
 aliases: ['impressum', 'imprint', 'legal']
 hint: "We’re forced to so here it is. In DE since I reside in Germany."
-
 ---
 # Impressum
 ## Angaben gemäß §5 TMG
