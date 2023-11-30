@@ -3,6 +3,7 @@ title: "Impressum"
 date: 2023-03-27T15:14:14+02:00
 draft: false
 noindex: true
+norobots: true
 aliases: ['impressum', 'imprint', 'legal']
 hint: "We’re forced to so here it is. In DE since I reside in Germany."
 ---

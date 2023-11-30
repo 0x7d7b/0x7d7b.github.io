@@ -3,6 +3,7 @@ title: "Datenschutzerklärung"
 date: 2023-03-27T15:14:14+02:00
 draft: false
 noindex: true
+norobots: true
 aliases: ['dsgvo', 'gdpr', 'privacy']
 hint: "We’re forced to so here it is. In DE since I reside in Germany."
 ---

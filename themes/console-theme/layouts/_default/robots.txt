@@ -1,6 +1,6 @@
 User-agent: *
 {{ range .Pages }}
-{{- if and (eq (isset .Params "noindex") true) (ne .Params.noindex false) -}}
+{{- if and (eq (isset .Params "norobots") true) (ne .Params.norobots false) -}}
 Disallow: {{ .RelPermalink }}
 {{ end }}
 {{- end -}}
