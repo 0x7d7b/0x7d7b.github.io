@@ -99,9 +99,6 @@ Die von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns,
 Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
 ### Soziale Netzwerke
-#### Mastodon
-Wir stellen ebenfalls Inhalte in dem sozialen Netzwerk Mastodon unter https://mastodon.social/@0x7d7b bereit. Es wird von dem Anbieter Mastodon gGmbH, Mühlenstraße 8a, 14167 Berlin, Deutschland betrieben. Dort gelten die foltenden Datenschutzbestimmungen: https://mastodon.social/privacy-policy.
-
 #### GitHub
 Gegebenenfalls stellen wir Quellcode Beispiele auf der Online Platform Github unter https://github.com/0x7d7b zur Verfügung. Sie wird von dem Betreiber Github Inc., 88 Colin P Kelly Jr St, San Francisco, CA, 94107-2008, United States betrieben. Dort gelten die folgenden Datenschutzbestimmungen: https://docs.github.com/de/site-policy/privacy-policies/github-privacy-statement.
 
