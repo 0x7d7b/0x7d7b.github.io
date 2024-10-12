@@ -7,7 +7,7 @@ Also: interested in all sorts of secure software development and [#infosec](http
 Requires [#linux](https://www.linuxfoundation.org/) and frequent coffee refills to be productive.
 [#python](https://www.python.org/) and [#raspberrypi](https://www.raspberrypi.com/) in my sparetime.
 
-You can get in touch with me via: [@0x7d7b@mastodon.social](https://mastodon.social/@0x7d7b).
+You can get in touch with me via Signal Messenger: [hs_.1416](https://signal.me/#eu/yiCcgdOjmjh1Eqff3N10Im6JUJh8WYQAJL3AXkOqpKaoG_sEXj1HhoWCT-KjvCZL).
 
 {{<console>}}
 &gt; % tiv -w 20 -h 20 ${<a href="/">HOME</a>}/me.jpg
