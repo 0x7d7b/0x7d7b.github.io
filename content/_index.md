@@ -7,7 +7,7 @@ Also: interested in all sorts of secure software development and [#infosec](http
 Requires [#linux](https://www.linuxfoundation.org/) and frequent coffee refills to be productive.
 [#ESPHome](https://esphome.io/) and [#3dprinting](https://www.printables.com/@0x7d7b) in my sparetime.
 
-You can get in touch with me via Signal Messenger: [hs_.1416](https://signal.me/#eu/yiCcgdOjmjh1Eqff3N10Im6JUJh8WYQAJL3AXkOqpKaoG_sEXj1HhoWCT-KjvCZL).
+You can get in touch with me via Bluesky: [@sachse.info](https://bsky.app/profile/sachse.info)
 
 {{<console>}}
 &gt; % tiv -w 20 -h 20 ${<a href="/">HOME</a>}/me.jpg
